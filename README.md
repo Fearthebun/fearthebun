@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! 😄
 
-I'm not terribly active, but I suppose this is where I'll host my updated portfolio, which is a work in progress!
+I'm not terribly active, this is where I'll host my updated portfolio, which is a work in progress!
 
 <!--
 **Fearthebun/fearthebun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
